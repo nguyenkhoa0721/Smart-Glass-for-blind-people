@@ -16,7 +16,6 @@ from imageio import imread
 import matplotlib.pyplot as plt
 import json
 
-from fashion.fashion import FASHION
 from odes.odes import classfy
 from FTTS import TTS
 from news.news import NEWS
