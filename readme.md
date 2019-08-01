@@ -1,5 +1,6 @@
 # Thiết bị phân tích dữ liệu từ camera dựa vào thị giác máy tính và trí tuệ nhân tạo
 
+## https://youtu.be/0Zp1Fkr2rBw
 
 ## Lưu ý
 
