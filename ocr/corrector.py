@@ -1,4 +1,4 @@
-def HAU(string): 
+def ORRECTOR(string): 
 	string=" "+string+" "
 	string=string.lower() 
 	ph = ('b','c','d','đ','g','h','k','l','m','n','p','q','r','s','t','v','x')  

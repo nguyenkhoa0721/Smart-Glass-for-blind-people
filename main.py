@@ -21,7 +21,7 @@ from FTTS import TTS
 from news.news import NEWS
 from news.read import READ
 from ocr.ocr import OCR
-from ocr.hau import HAU 
+from ocr.corrector import ORRECTOR
 from ocr.pre import PRE
 from sdes.imagecaption import CAPTION
 from weather import WEATHER
