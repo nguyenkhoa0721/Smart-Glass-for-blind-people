@@ -1,4 +1,4 @@
-# THiết bị kính thông minh cho người khiếm thị
+# Thiết bị kính thông minh cho người khiếm thị
 
 ## https://youtu.be/0Zp1Fkr2rBw
 
